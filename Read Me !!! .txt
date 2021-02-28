@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # How to use :
     1- put all your email contact in a siparite line. in contact file.
     2- run the file Send_Email.py in your IDE.
@@ -17,4 +9,5 @@ some times Dosen't work but just beacause of the policy of google Gmail for that
 instruction in this video and all thing will be fine.
 
 
-@powered by Github : link : 
+@powered by Github : link : https://github.com/ahbarabdellah/send-email
+                    
