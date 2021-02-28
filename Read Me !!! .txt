@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+# How to use :
+    1- put all your email contact in a siparite line. in contact file.
+    2- run the file Send_Email.py in your IDE.
+    3- enter your email.
+    4- enter the MSG you want to sent.
+    5- Up Up ... youpi ... 
+
+some times Dosen't work but just beacause of the policy of google Gmail for that follow the
+instruction in this video and all thing will be fine.
+
+
+@powered by Github : link : 
